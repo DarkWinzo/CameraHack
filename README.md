@@ -1,6 +1,21 @@
 # Camera Hacking
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
 
+<p align="left">
+<a href="#"><img title="Made in Sri Lanka" src="https://img.shields.io/badge/MADE%20IN-SRI LANKA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="#"><img title="CameraHack" src="https://i.ibb.co/CK4B103/camerapishing.jpg"></a>
+</p>
+<p align="center">
+<a href="https://github.com/DarkWinzo"><img title="Author" src="https://img.shields.io/badge/Author-Dark--Winzo-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
+</p>
+
+### SCREENSHOT ( KALI )
+![full](wait)
+
+
 # What is CameraHack?
 <p>Camera Hack is techniques to take cam shots of target's phone front camera or PC webcam. CamPhish Hosts a fake website on in built PHP server and uses ngrok & serveo to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device</p>
 
