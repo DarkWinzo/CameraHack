@@ -17,8 +17,8 @@ printf "\e[0m\e[92m  ┃╰━╯┃╭╮┃┃┃┃┃━┫┃┃╭╮┃ \
 printf "\e[0m\e[92m  ╰━━━┻╯╰┻┻┻┻━━┻╯╰╯╰╯ \e[0m\e[93m      ╰╯╱╰┻╯╰┻━━┻╯╰╯  \e[0m\e[1;44m[V 1.0]\e[0m\n"
 printf "\e[0m\n"
 printf " \e[0m\e[1;41m 𝙲𝚊𝚖𝚎𝚛𝚊 𝙷𝚊𝚌𝚔𝚒𝚗𝚐 𝚃𝚘𝚘𝚕  [BY : DarkWinzo]\e[0m\n"
-printf "\e[0m\e[1;41m Contact DarkWinzo (Whatsapp) = Wa.me/+94775200935]\e[0m\n"
-printf "\e[0m\e[1;41m Telegrame = T.me/DarkWinzo]\e[0m\n"
+printf "\e[0m\e[1;41m Contact [ DarkWinzo (Whatsapp) = Wa.me/+94775200935]\e[0m\n"
+printf "\e[0m\e[1;41m Telegrame = T.me/DarkWinzo\e[0m\n"
 printf "\e[0m\n"
 }
 
@@ -144,7 +144,7 @@ clear
 banner
 camphish
 else
-printf "\n-----Choose a template----\n"    
+printf "\n*----Choose a template---*\n"    
 printf "\n\e[1;92m[\e[0m\e[1;77m01\e[0m\e[1;92m]\e[0m\e[1;93m Festival Wishing\e[0m\n"
 printf "\e[1;92m[\e[0m\e[1;77m02\e[0m\e[1;92m]\e[0m\e[1;93m Live Youtube TV\e[0m\n"
 printf "\e[1;92m[\e[0m\e[1;77m03\e[0m\e[1;92m]\e[0m\e[1;93m Online Meeting\e[0m\n"
