@@ -2,7 +2,6 @@
 # CamPhish v1.0
 # Powered by Technical Hacker Team
 # Credits goes to DarkWizo [github.com/DarkWinzo/]
-clear
 
 # BANNER 
 echo -e "\e[92m    ♥ﮩ٨ـﮩﮩ٨ـﮩﮩ ∂αякωιηzσ ﮩﮩـ٨ﮩﮩـ٨ﮩ♥                       "
@@ -18,8 +17,6 @@ echo -e "  \e[34m Contact Me(Whatsapp)=Wa.me\+94775200935\e[0m"
 
 
 dependencies() {
-
-
 command -v php > /dev/null 2>&1 || { echo >&2 "I require php but it's not installed. Install it. Aborting."; exit 1; }
  
 
