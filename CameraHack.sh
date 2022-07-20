@@ -4,6 +4,7 @@
 # Credits goes to DarkWizo [github.com/DarkWinzo/]
 
 # BANNER 
+banner() {
 echo -e "\e[92m    ♥ﮩ٨ـﮩﮩ٨ـﮩﮩ ∂αякωιηzσ ﮩﮩـ٨ﮩﮩـ٨ﮩ♥                       "
 echo -e "        ____    __    ____  _  _  _  _  ____  ____  __  __  ___   "
 echo -e "       (  _ \  /__\  (  _ \( )/ )( \/ )(_  _)(  _ \(  )(  )/ __)  "
@@ -14,7 +15,7 @@ echo -e "\e[34m\"If you are too lazy to type a single command,"
 echo -e " Allow my programs to do it for you.\"\e[0m"
 echo -e " -\e[90m(https://github.com/DarkWinzo)\e[0m\n"
 echo -e "  \e[34m Contact Me(Whatsapp)=Wa.me\+94775200935\e[0m"
-
+}
 
 dependencies() {
 command -v php > /dev/null 2>&1 || { echo >&2 "I require php but it's not installed. Install it. Aborting."; exit 1; }
