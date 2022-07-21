@@ -3,7 +3,6 @@
 # Powered by Technical Hacker Team
 # Credits goes to DarkWizo [github.com/DarkWinzo/]
 
-# BANNER 
 banner() {
 echo -e "\e[92m    ♥ﮩ٨ـﮩﮩ٨ـﮩﮩ ∂αякωιηzσ ﮩﮩـ٨ﮩﮩـ٨ﮩ♥                       "
 echo -e "        ____    __    ____  _  _  _  _  ____  ____  __  __  ___   "
